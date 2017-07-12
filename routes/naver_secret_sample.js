@@ -7,7 +7,7 @@
 
 module.exports = {
 		
-		client_id = 'myNaverClientId',
-		client_secret = 'myNaverClientSecret'
+		client_id : 'myNaverClientId',
+		client_secret : 'myNaverClientSecret'
 		
 }
